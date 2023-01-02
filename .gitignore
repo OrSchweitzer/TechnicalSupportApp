@@ -9,8 +9,6 @@
 *.user
 *.userosscache
 *.sln.docstates
-appsettings.Development.json
-appsettings.json
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -180,7 +178,6 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
-Properties/
 
 # Publish Web Output
 *.[Pp]ublish.xml
